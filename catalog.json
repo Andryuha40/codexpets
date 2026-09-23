@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "characters": [
+    {
+      "id": "tikinson",
+      "name": "Tikinson",
+      "version": "1.0.0",
+      "author": "Andrey / Andryuha40",
+      "description": {
+        "ru": "Любопытный напарник, который любит всё перепроверять.",
+        "en": "A curious companion who likes to double-check everything."
+      },
+      "pet": "characters/tikinson/pet.json",
+      "preview": "media/tikinson-idle.gif",
+      "download": "downloads/tikinson-v1.0.0.zip",
+      "license": "LICENSE.md",
+      "sha256": "691dfbbfeb00919f45d0a634a002cb1d3baaec42014f99d795fa8af602e1c79c"
+    }
+  ]
+}
