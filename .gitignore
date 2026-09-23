@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+*.ppk
+__pycache__/
