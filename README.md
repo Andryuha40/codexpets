@@ -1,10 +1,16 @@
 # Codex Pets
 
+[![Telegram: Tikinson Games](https://img.shields.io/badge/Telegram-Tikinson%20Games-26A5E4?logo=telegram&logoColor=white)](https://t.me/tikinsongames)
+
+**Художник Tikinson — [канал Tikinson Games в Telegram](https://t.me/tikinsongames).** Персонаж создан по мотивам его рисунков: Tikinson — ник художника, а сам персонаж — его автопортрет.
+
 [English](README.en.md) · Русский
 
-Коллекция анимированных персонажей для настольного Codex. **Tikinson** — первый персонаж, созданный **Andrey / [Andryuha40](https://github.com/Andryuha40)**: любопытный напарник, который любит всё перепроверять.
+Коллекция анимированных персонажей для настольного Codex. **Tikinson** — первый питомец коллекции, адаптированный для Codex **Andrey / [Andryuha40](https://github.com/Andryuha40)**: любопытный напарник, который любит всё перепроверять.
 
 ![Tikinson](media/tikinson-idle.gif)
+
+**Tikinson для Claude Code:** [claude-pets](https://github.com/Andryuha40/claude-pets) — мод от Andryuha40 с тем же персонажем. Этот репозиторий содержит питомца для Codex; мод для Claude Code развивается отдельно.
 
 ## Скачать и установить
 
